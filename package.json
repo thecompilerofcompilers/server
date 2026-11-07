@@ -37,5 +37,8 @@
   "allowScripts": {
     "@google/genai@2.19.0": true,
     "protobufjs@7.6.6": true
+  },
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.7.15"
   }
 }
